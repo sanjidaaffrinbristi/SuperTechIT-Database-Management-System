@@ -30,7 +30,7 @@ Refer to the complete ER diagrams and normalization steps in [`docs/SuperTechIT_
 ---
 
 ## 👥 Authors / Team Members
-- **Sanjida Affrin Bristi** (ID: 23-51788-2)[cite: 28, 64]
-- **Taiyeb Tausif Dhrubo** (ID: 23-51720-2)[cite: 28, 64]
-- **Shreya Chakraborty** (ID: 23-51756-2)[cite: 28, 64]
-- **Montarin Rahman Jousti** (ID: 23-52687-2)[cite: 28, 64]
+- **Sanjida Affrin Bristi** (ID: 23-51788-2)
+- **Taiyeb Tausif Dhrubo** (ID: 23-51720-2)
+- **Shreya Chakraborty** (ID: 23-51756-2)
+- **Montarin Rahman Jousti** (ID: 23-52687-2)
